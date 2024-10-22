@@ -1,0 +1,6 @@
+@DesafioEclipse_HostAddress = http://localhost:5122
+
+GET {{DesafioEclipse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
